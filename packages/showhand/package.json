@@ -1,0 +1,21 @@
+{
+  "name": "showhand",
+  "version": "1.0.0",
+  "description": "一个小渣渣写的小渣渣脚手架",
+  "main": "./entry.js",
+  "bin": {
+    "showhand": "./entry.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "scripts": {
+    "start": "x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^7.0.0"
+  }
+}
