@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>icon_sweepcode</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_sweepcode" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22.3986637,14.4 L5.60133631,14.4 C5.27060134,14.4 5,14.085 5,13.7 C5,13.315 5.27060134,13 5.60133631,13 L22.3986637,13 C22.7293987,13 23,13.315 23,13.7 C23,14.085 22.7293987,14.4 22.3986637,14.4 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <path d="M10.75,17.65 L6.75,17.65 C5.23121694,17.65 4,18.8812169 4,20.4 L4,24.4 L5.5,24.4 L5.5,20.4 C5.5,19.7096441 6.05964406,19.15 6.75,19.15 L10.75,19.15 L10.75,17.65 Z" id="路径-6" fill="#FFFFFF" fill-rule="nonzero" transform="translate(7.375000, 21.025000) scale(1, -1) translate(-7.375000, -21.025000) "></path>
+        <circle id="椭圆形" fill="#FFFFFF" cx="4.75" cy="17.75" r="1"></circle>
+        <circle id="椭圆形" fill="#FFFFFF" cx="10.64" cy="23.65" r="1"></circle>
+        <path d="M10.75,3.6 L6.75,3.6 C5.23121694,3.6 4,4.83121694 4,6.35 L4,10.35 L5.5,10.35 L5.5,6.35 C5.5,5.65964406 6.05964406,5.1 6.75,5.1 L10.75,5.1 L10.75,3.6 Z" id="路径-6" fill="#FFFFFF" fill-rule="nonzero"></path>
+        <circle id="椭圆形" fill="#FFFFFF" transform="translate(4.750000, 10.250000) scale(1, -1) translate(-4.750000, -10.250000) " cx="4.75" cy="10.25" r="1"></circle>
+        <circle id="椭圆形" fill="#FFFFFF" transform="translate(10.640000, 4.350000) scale(1, -1) translate(-10.640000, -4.350000) " cx="10.64" cy="4.35" r="1"></circle>
+        <path d="M25,17.65 L21,17.65 C19.4812169,17.65 18.25,18.8812169 18.25,20.4 L18.25,24.4 L19.75,24.4 L19.75,20.4 C19.75,19.7096441 20.3096441,19.15 21,19.15 L25,19.15 L25,17.65 Z" id="路径-6" fill="#FFFFFF" fill-rule="nonzero" transform="translate(21.625000, 21.025000) scale(-1, -1) translate(-21.625000, -21.025000) "></path>
+        <circle id="椭圆形" fill="#FFFFFF" transform="translate(24.250000, 17.750000) scale(-1, 1) translate(-24.250000, -17.750000) " cx="24.25" cy="17.75" r="1"></circle>
+        <circle id="椭圆形" fill="#FFFFFF" transform="translate(18.360000, 23.650000) scale(-1, 1) translate(-18.360000, -23.650000) " cx="18.36" cy="23.65" r="1"></circle>
+        <path d="M25,3.6 L21,3.6 C19.4812169,3.6 18.25,4.83121694 18.25,6.35 L18.25,10.35 L19.75,10.35 L19.75,6.35 C19.75,5.65964406 20.3096441,5.1 21,5.1 L25,5.1 L25,3.6 Z" id="路径-6" fill="#FFFFFF" fill-rule="nonzero" transform="translate(21.625000, 6.975000) scale(-1, 1) translate(-21.625000, -6.975000) "></path>
+        <circle id="椭圆形" fill="#FFFFFF" transform="translate(24.250000, 10.250000) scale(-1, -1) translate(-24.250000, -10.250000) " cx="24.25" cy="10.25" r="1"></circle>
+        <circle id="椭圆形" fill="#FFFFFF" transform="translate(18.360000, 4.350000) scale(-1, -1) translate(-18.360000, -4.350000) " cx="18.36" cy="4.35" r="1"></circle>
+    </g>
+</svg>

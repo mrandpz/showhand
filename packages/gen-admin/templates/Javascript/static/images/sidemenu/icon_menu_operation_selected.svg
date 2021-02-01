@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>icon_menu_operation_selected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_menu_operation_selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-3" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M2.04937524,13 L6.08295844,13 C6.50447689,15.5125049 8.48749513,17.4955231 11,17.9170416 L11,21.9506248 C6.27558355,21.4815561 2.51844387,17.7244165 2.04937524,13 L2.04937524,13 Z M2.04937524,11 C2.51844387,6.27558355 6.27558355,2.51844387 11,2.04937524 L11,6.08295844 C8.48749513,6.50447689 6.50447689,8.48749513 6.08295844,11 L2.04937524,11 L2.04937524,11 Z M21.9506248,11 L17.9170416,11 C17.4955231,8.48749513 15.5125049,6.50447689 13,6.08295844 L13,2.04937524 C17.7244165,2.51844387 21.4815561,6.27558355 21.9506248,11 L21.9506248,11 Z M21.9506248,13 C21.4815561,17.7244165 17.7244165,21.4815561 13,21.9506248 L13,17.9170416 C15.5125049,17.4955231 17.4955231,15.5125049 17.9170416,13 L21.9506248,13 L21.9506248,13 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

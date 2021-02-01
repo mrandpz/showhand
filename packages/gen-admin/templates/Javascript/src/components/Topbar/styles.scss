@@ -1,0 +1,85 @@
+@import '~scssinc';
+
+:global {
+  .lz-component-topbar {
+    position: relative;
+    z-index: 5;
+    height: $TOPBAR_HEIGHT;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(#000, 0.1);
+    .button-toggle-sidebar {
+      float: left;
+      width: 40px;
+      height: 40px;
+      margin: ($TOPBAR_HEIGHT - 40) / 2 10px 0 0;
+      background-color: transparent;
+      border: none;
+      outline: none;
+      color: $COLOR_TEXT_INFO;
+      font-size: 19px;
+      line-height: 42px;
+      cursor: pointer;
+    }
+    .breadcrumb {
+      float: left;
+      display: flex;
+      align-items: center;
+      height: $TOPBAR_HEIGHT;
+      > a,
+      > span {
+        font-size: 18px;
+        margin-left: 5px;
+        &::after {
+          padding-left: 5px;
+          color: $COLOR_TEXT_EMPHASIZED;
+          font-size: 18px;
+          content: '/';
+        }
+        &:last-child::after {
+          content: none;
+        }
+      }
+      > span {
+        color: $COLOR_TEXT_EMPHASIZED;
+      }
+    }
+
+    .right {
+      float: right;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 20px;
+      .action {
+        cursor: pointer;
+        padding: 0 12px;
+        display: inline-block;
+        transition: all 0.3s;
+        height: 100%;
+        > i {
+          font-size: 16px;
+          vertical-align: middle;
+        }
+        &:hover,
+        &:global(.ant-popover-open) {
+          background: #ccc;
+        }
+      }
+      .search {
+        padding: 0;
+        margin: 0 12px;
+        &:hover {
+          background: transparent;
+        }
+      }
+      .account {
+        .avatar {
+          margin: 16px 8px 16px 0;
+          background: #ccc;
+          vertical-align: middle;
+        }
+      }
+    }
+  }
+}

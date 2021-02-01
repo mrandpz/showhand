@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>icon_menu_pick_selected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_menu_pick_selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+        <path d="M21,9 L21,20 C21,20.5522847 20.5522847,21 20,21 L4,21 C3.44771525,21 3,20.5522847 3,20 L3,9 C2.44771525,9 2,8.55228475 2,8 L2,4 C2,3.44771525 2.44771525,3 3,3 L21,3 C21.5522847,3 22,3.44771525 22,4 L22,8 C22,8.55228475 21.5522847,9 21,9 Z M7.5,11 C7.22385763,11 7,11.2238576 7,11.5 C7,11.7761424 7.22385763,12 7.5,12 L16.5,12 C16.7761424,12 17,11.7761424 17,11.5 C17,11.2238576 16.7761424,11 16.5,11 L7.5,11 Z" id="合并形状" fill="#FFFFFF"></path>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "@lingzhi/gen-admin",
+  "version": "1.5.12",
+  "description": "generator 模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mr.pz",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^4.1.0"
+  },
+  "gitHead": "a52b63f118e60e1a0920b56f3160f72516c3ec7b"
+}

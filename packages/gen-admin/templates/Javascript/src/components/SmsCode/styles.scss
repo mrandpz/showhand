@@ -1,0 +1,52 @@
+:global {
+  .lz-reset-form {
+    .ant-row-mb0 {
+      margin-bottom: 0;
+    }
+    .code {
+      input {
+        width: 180px;
+        float: left;
+      }
+      .ant-form-item-children {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+      }
+      .getCode {
+        margin-left: 12px;
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        button {
+          line-height: 30px;
+          span {
+            display: inline-block;
+          }
+        }
+      }
+      .getCodeleft {
+        justify-content: flex-start;
+      }
+    }
+    .ant-statistic-content-value {
+      font-size: 12px;
+      color: #999;
+    }
+    .ant-statistic {
+      display: inline-block;
+      height: 30px;
+      .ant-statistic-content {
+        height: 30px;
+        line-height: 22px;
+      }
+    }
+  }
+  .reset-modal-form {
+    .ant-form-item-label {
+      line-height: 30px;
+      height: 30px;
+    }
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>icon_mutex</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_mutex" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#FFFFFF" x="4.03261845" y="17" width="21" height="1.7" rx="0.85"></rect>
+        <rect id="矩形" fill="#FFFFFF" transform="translate(7.000000, 20.564129) rotate(50.000000) translate(-7.000000, -20.564129) " x="3" y="19.7141291" width="8" height="1.7" rx="0.85"></rect>
+        <rect id="矩形" fill="#FFFFFF" transform="translate(13.467382, 10.150000) scale(-1, -1) translate(-13.467382, -10.150000) " x="2.96738155" y="9.3" width="21" height="1.7" rx="0.85"></rect>
+        <rect id="矩形" fill="#FFFFFF" transform="translate(21.000000, 7.435871) scale(-1, -1) rotate(50.000000) translate(-21.000000, -7.435871) " x="17" y="6.5858709" width="8" height="1.7" rx="0.85"></rect>
+    </g>
+</svg>

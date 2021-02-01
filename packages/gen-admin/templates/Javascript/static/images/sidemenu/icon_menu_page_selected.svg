@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>icon_menu_page_selected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_menu_page_selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-3" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M5,2 L17,2 C18.1045695,2 19,2.8954305 19,4 L19,18 C19,19.1045695 18.1045695,20 17,20 L5,20 C3.8954305,20 3,19.1045695 3,18 L3,4 C3,2.8954305 3.8954305,2 5,2 Z M5.5,21 L19,21 C19.5522847,21 20,20.5522847 20,20 L20,4.5 C20,4.22385763 20.2238576,4 20.5,4 C20.7761424,4 21,4.22385763 21,4.5 L21,20 C21,21.1045695 20.1045695,22 19,22 L5.5,22 C5.22385763,22 5,21.7761424 5,21.5 C5,21.2238576 5.22385763,21 5.5,21 Z" id="合并形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>

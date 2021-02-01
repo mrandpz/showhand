@@ -1,0 +1,30 @@
+{
+  "name": "@lingzhi/lingzhi-cli",
+  "version": "1.5.6",
+  "description": "灵智内部基础脚手架搭建",
+  "main": "./bin/entry.js",
+  "bin": {
+    "lingzhi-cli": "./bin/entry.js"
+  },
+  "files": [
+    "script",
+    "bin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mr.pz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "import-from": "^3.0.0",
+    "inquirer": "^7.0.0",
+    "minimist": "^1.2.0",
+    "mkdirp": "^0.5.1",
+    "osenv": "^0.1.5",
+    "resolve-from": "^5.0.0",
+    "yeoman-environment": "^2.5.0"
+  },
+  "gitHead": "a52b63f118e60e1a0920b56f3160f72516c3ec7b"
+}

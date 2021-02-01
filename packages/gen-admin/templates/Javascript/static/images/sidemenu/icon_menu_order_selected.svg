@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>icon_menu_order_selected</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon_menu_order_selected" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-3" fill-rule="nonzero" x="0" y="0" width="24" height="24"></rect>
+        <path d="M5,2 L19,2 C20.1045695,2 21,2.8954305 21,4 L21,20 C21,21.1045695 20.1045695,22 19,22 L5,22 C3.8954305,22 3,21.1045695 3,20 L3,4 C3,2.8954305 3.8954305,2 5,2 Z M6.5,6 C6.22385763,6 6,6.22385763 6,6.5 C6,6.77614237 6.22385763,7 6.5,7 L17.5,7 C17.7761424,7 18,6.77614237 18,6.5 C18,6.22385763 17.7761424,6 17.5,6 L6.5,6 Z M6.5,11 C6.22385763,11 6,11.2238576 6,11.5 C6,11.7761424 6.22385763,12 6.5,12 L17.5,12 C17.7761424,12 18,11.7761424 18,11.5 C18,11.2238576 17.7761424,11 17.5,11 L6.5,11 Z M6.5,16 C6.22385763,16 6,16.2238576 6,16.5 C6,16.7761424 6.22385763,17 6.5,17 L17.5,17 C17.7761424,17 18,16.7761424 18,16.5 C18,16.2238576 17.7761424,16 17.5,16 L6.5,16 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
